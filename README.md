@@ -16,7 +16,7 @@
 - 📫 How to reach me **timioluwagbemi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eUv0Gqd3ow7bamdao0B02BzgeRigVg1Q/view?usp=sharing](https://drive.google.com/file/d/1eUv0Gqd3ow7bamdao0B02BzgeRigVg1Q/view?usp=sharing)
-- Link to my portfolio: 
+- Link to my portfolio: https://gamma.app/docs/Securing-Systems-Reducing-Risk-Building-Resilience-pkagexykxi9j839
 - ⚡ Fun fact **I love travelling, eating, reading and gisting.**
 
 <h3 align="left">Connect with me:</h3>
