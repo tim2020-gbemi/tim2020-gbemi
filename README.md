@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tim2020-gbemi&label=Profile%20views&color=0e75b6&style=flat" alt="tim2020-gbemi" /> </p>
 
-- 🌱 I’m currently learning **Governance, Risk, and Compliance**
+- 🌱 I’m currently a certified **Governance, Risk, and Compliance (GRC) Engineer**
 
 - 👯 I’m looking to collaborate on **Cybersecurity Projects**
 
@@ -16,7 +16,7 @@
 - 📫 How to reach me **timioluwagbemi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1eUv0Gqd3ow7bamdao0B02BzgeRigVg1Q/view?usp=sharing](https://drive.google.com/file/d/1eUv0Gqd3ow7bamdao0B02BzgeRigVg1Q/view?usp=sharing)
-- Link to my portfolio: https://gamma.app/docs/Securing-Systems-Reducing-Risk-Building-Resilience-pkagexykxi9j839
+- Link to my portfolio:  https://gamma.app/docs/Oluwatimilehin-Oluwagbemi-fqioce4ht4xzw7p
 - ⚡ Fun fact **I love travelling, eating, reading and gisting.**
 
 <h3 align="left">Connect with me:</h3>
