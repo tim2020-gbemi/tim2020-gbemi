@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oluwatimilehin Faustina Oluwagbemi</h1>
+<h1 align="center">Hi 👋, I'm Oluwatimilehin  Oluwagbemi</h1>
 <h3 align="center">A passionate Cybersecurity Analyst from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tim2020-gbemi&label=Profile%20views&color=0e75b6&style=flat" alt="tim2020-gbemi" /> </p>
